@@ -55,7 +55,12 @@
         "symbol": "ETH",
         "decimals": 18,
         "precision": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
+        "extensions":
+        {
+          "allow_locking": false,
+          "coingecko_api_id": "ethereum"
+        }
       },
       {
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
