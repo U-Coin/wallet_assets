@@ -1,0 +1,44 @@
+{
+  "tokens": [
+    {
+      "address": "0x06de990abC8E6dC2E1a9Ee10E402b3AfCeF5Cdb0",
+      "name": "U-coin",
+      "symbol": "U",
+      "decimals": 16,
+      "precision": 0,
+      "logoURI": "https://www.yellow.org/images/ucoin-200x200.png"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "precision": 4,
+      "logoURI": "https://www.yellow.org/images/eth-200x200.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "precision": 4,
+      "logoURI": "https://www.yellow.org/images/weth-200x200.png"
+    },
+    {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "precision": 4,
+      "logoURI": "https://www.yellow.org/images/usdcoin-200x200.png"
+    },
+    {
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "precision": 4,
+      "logoURI": "https://www.yellow.org/images/dai-200x200.png"
+    }
+  ]
+}
