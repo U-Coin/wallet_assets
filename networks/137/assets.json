@@ -1,6 +1,14 @@
 {
   "tokens": [
     {
+      "address": "0xcF7801cEf3e91a7e366cf77Ed3d0B6439bB34766",
+      "name": "U-coin",
+      "symbol": "U",
+      "decimals": 16,
+      "precision": 0,
+      "logoURI": "https://raw.githubusercontent.com/U-Coin/wallet_assets/master/networks/icons/ucoin-200x200.png"
+    },
+    {
       "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
       "name": "Yellow Duckies",
       "symbol": "DUCKIES",

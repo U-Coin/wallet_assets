@@ -1,6 +1,14 @@
 {
     "tokens": [
       {
+        "address": "0xcF7801cEf3e91a7e366cf77Ed3d0B6439bB34766",
+        "name": "U-coin",
+        "symbol": "U",
+        "decimals": 16,
+        "precision": 0,
+        "logoURI": "https://raw.githubusercontent.com/U-Coin/wallet_assets/master/networks/icons/ucoin-200x200.png"
+      },
+      {
         "address": "0x90b7E285ab6cf4e3A2487669dba3E339dB8a3320",
         "name": "Yellow Duckies",
         "symbol": "DUCKIES",
@@ -222,24 +230,6 @@
         "decimals": 9,
         "precision": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/32788/standard/GROK.png?1707579427",
-        "extensions": {}
-      },
-      {
-        "address": "0x9aACaCC094df2885DF2d1690c3B2B106D0b8F32D",
-        "name": "DISCO",
-        "symbol": "DISCO",
-        "decimals": 4,
-        "precision": 0,
-        "logoURI": "",
-        "extensions": {}
-      },
-      {
-        "address": "0x96168402310c70fD7b45adf2Fb3892691E0627D9",
-        "name": "KAYEN",
-        "symbol": "KAYEN",
-        "decimals": 6,
-        "precision": 3,
-        "logoURI": "",
         "extensions": {}
       }
     ]
