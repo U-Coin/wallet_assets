@@ -22,7 +22,12 @@
         "symbol": "USDT",
         "decimals": 6,
         "precision": 4,
-        "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+        "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+        "extensions":
+        {
+          "allow_locking": true,
+          "coingecko_api_id": "tether"
+        }
       },
       {
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -31,7 +36,12 @@
         "alias": "USD",
         "decimals": 6,
         "precision": 4,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+        "extensions":
+        {
+          "allow_locking": true,
+          "coingecko_api_id": "usd-coin"
+        }
       },
       {
         "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
