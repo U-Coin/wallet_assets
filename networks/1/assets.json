@@ -22,12 +22,7 @@
         "symbol": "USDT",
         "decimals": 6,
         "precision": 4,
-        "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
-        "extensions":
-        {
-          "allow_locking": true,
-          "coingecko_api_id": "tether"
-        }
+        "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
       },
       {
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -36,12 +31,7 @@
         "alias": "USD",
         "decimals": 6,
         "precision": 4,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
-        "extensions":
-        {
-          "allow_locking": true,
-          "coingecko_api_id": "usd-coin"
-        }
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
       },
       {
         "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
@@ -65,12 +55,7 @@
         "symbol": "ETH",
         "decimals": 18,
         "precision": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
-        "extensions":
-        {
-          "allow_locking": false,
-          "coingecko_api_id": "ethereum"
-        }
+        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
       },
       {
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
