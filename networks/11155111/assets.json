@@ -7,6 +7,14 @@
       "decimals": 18,
       "precision": 0,
       "logoURI": "https://ibb.co/j5w4Dxf"
-    }
+    },     
+    {
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "precision": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+    },
   ]
 }
